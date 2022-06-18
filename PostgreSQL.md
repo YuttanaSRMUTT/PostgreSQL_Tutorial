@@ -46,6 +46,14 @@ $ sudo su - postgres
 $ exit
 ```
 
+[`How To Install PostgreSQL on Ubuntu 20.04`](https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart)
+
+### `Run Postgres`
+```
+$ sudo -u postgres psql
+```
+
+
 
 
 
